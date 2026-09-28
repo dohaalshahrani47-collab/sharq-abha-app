@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "964837654334",
+    "project_id": "sharqabhaapp",
+    "storage_bucket": "sharqabhaapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964837654334:android:cfb294b608853e9e6d766f",
+        "android_client_info": {
+          "package_name": "com.example.copany_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCD1JATV_uBi8UDCs8u10h7b-BV1yT8nQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
